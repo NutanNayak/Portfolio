@@ -85,7 +85,7 @@ const Navbar = () => {
             }}
           >
             <p className="text-white text-[18px] font-bold cursor-pointer flex">
-              Nutan &nbsp;
+              Nutan Nayak &nbsp;
               <span className="sm:block hidden">| Portfolio</span>
             </p>
           </a>
