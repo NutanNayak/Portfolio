@@ -14,7 +14,7 @@ const projects = [
     source_code_link: "https://github.com",
   },
   {
-    name: "Task Management System",
+    name: "Task Management",
     description: "A collaborative task management application with real-time updates, team collaboration features, and performance analytics dashboard.",
     tags: [
       { name: "react", color: "blue-text-gradient" },
