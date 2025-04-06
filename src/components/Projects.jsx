@@ -25,7 +25,7 @@ const projects = [
     source_code_link: "https://github.com",
   },
   {
-    name: "Portfolio Website",
+    name: "Portfolio",
     description: "A modern and interactive portfolio website showcasing professional experience, skills, and projects with smooth animations.",
     tags: [
       { name: "react", color: "blue-text-gradient" },
