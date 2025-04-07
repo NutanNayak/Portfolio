@@ -8,7 +8,7 @@ const projects = [
     tags: [
       { name: "C#", color: "blue-text-gradient" },
       { name: ".NET CORE", color: "green-text-gradient" },
-      { name: "SQL", color: "pink-text-gradient" },
+      { name: "SQL Server", color: "pink-text-gradient" },
     ],
     image: "project1.png",
     source_code_link: "https://github.com",

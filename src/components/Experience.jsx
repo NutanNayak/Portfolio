@@ -5,7 +5,7 @@ const experiences = [
   {
     title: "MCA Graduate",
     company_name: "Your University Name",
-    date: "2021 - 2023",
+    date: "2022 - 2024",
     points: [
       "Completed Master's in Computer Applications with distinction",
       "Specialized in Advanced Software Development and System Design",
@@ -15,8 +15,8 @@ const experiences = [
   },
   {
     title: "Software Development Intern",
-    company_name: "Tech Company Name",
-    date: "Summer 2022",
+    company_name: "interface software",
+    date: "Summer 2023",
     points: [
       "Developed and maintained web applications using .NET Core and React.js",
       "Collaborated with cross-functional teams to create high-quality products",
