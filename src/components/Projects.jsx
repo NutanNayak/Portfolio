@@ -3,12 +3,12 @@ import { styles } from '../styles';
 
 const projects = [
   {
-    name: "E-Commerce Platform",
+    name: "Timesheet Application",
     description: "A full-stack e-commerce solution built with .NET Core and React, featuring user authentication, product management, and secure payment processing.",
     tags: [
       { name: "C#", color: "blue-text-gradient" },
       { name: ".NET CORE", color: "green-text-gradient" },
-      { name: "SQL", color: "pink-text-gradient" },
+      { name: "SQL Server", color: "pink-text-gradient" },
     ],
     image: "project1.png",
     source_code_link: "https://github.com",
